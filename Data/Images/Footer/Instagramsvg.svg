@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 136.6 136.7" style="enable-background:new 0 0 136.6 136.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;fill:#395398;}
+	.st2{display:inline;fill:#FFFFFF;}
+	.st3{fill:url(#SVGID_1_);}
+	.st4{fill:#FFFFFF;}
+</style>
+<g id="Facebook" class="st0">
+	<title>facebook</title>
+	<path class="st1" d="M23.4,0h89.9c12.9,0,23.3,10.4,23.3,23.3v89.9c0,12.9-10.4,23.3-23.3,23.3H23.4C10.5,136.6,0,126.2,0,113.3
+		V23.4C0,10.5,10.5,0,23.4,0z"/>
+	<path class="st2" d="M96.7,136.6V84.2h17.6l2.6-20.4H96.7v-13c0-5.9,1.6-10,10.1-10h10.8V22.5c-5.2-0.6-10.5-0.8-15.8-0.8
+		c-15.6,0-26.3,9.5-26.3,27v15.1H58v20.4h17.6v52.4L96.7,136.6z"/>
+</g>
+<g id="Instagram">
+	
+		<radialGradient id="SVGID_1_" cx="737.8354" cy="849.4477" r="277.67" fx="652.1926" fy="837.0105" gradientTransform="matrix(0.6534 -0.757 -0.6132 -0.5293 61.2956 1114.4523)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#F9ED32"/>
+		<stop  offset="6.000000e-02" style="stop-color:#F8D939"/>
+		<stop  offset="0.19" style="stop-color:#F5A54D"/>
+		<stop  offset="0.37" style="stop-color:#F0536C"/>
+		<stop  offset="0.45" style="stop-color:#EE2A7B"/>
+		<stop  offset="0.6" style="stop-color:#9E2AA7"/>
+		<stop  offset="0.74" style="stop-color:#5B2ACD"/>
+		<stop  offset="0.86" style="stop-color:#2A2AE8"/>
+		<stop  offset="0.95" style="stop-color:#0B2AF9"/>
+		<stop  offset="1" style="stop-color:#002AFF"/>
+	</radialGradient>
+	<path class="st3" d="M23.4,0h89.9c12.9,0,23.3,10.4,23.3,23.3v89.9c0,12.9-10.4,23.3-23.3,23.3H23.4C10.5,136.6,0,126.2,0,113.3
+		V23.4C0,10.5,10.5,0,23.4,0z"/>
+	<path class="st4" d="M90,122.5H46.5c-19.3,0-35-15.7-35-35V49.2c0-19.3,15.7-35,35-35H90c19.3,0,35,15.7,35,35v38.3
+		C125,106.8,109.4,122.5,90,122.5z M46.5,21.9c-15,0-27.2,12.2-27.2,27.2v38.3c0,15,12.2,27.2,27.2,27.2H90
+		c15,0,27.2-12.2,27.2-27.2V49.2c0-15-12.2-27.2-27.2-27.2L46.5,21.9z"/>
+	<path class="st4" d="M68.3,99.5c-17.2,0-31.2-14-31.2-31.2s14-31.2,31.2-31.2c17.2,0,31.2,14,31.2,31.2
+		C99.4,85.5,85.5,99.5,68.3,99.5z M68.3,44.9c-12.9,0-23.4,10.5-23.4,23.4s10.5,23.4,23.4,23.4c12.9,0,23.4-10.5,23.4-23.4
+		c0,0,0,0,0,0C91.7,55.4,81.2,45,68.3,44.9L68.3,44.9z"/>
+	<path class="st4" d="M105.5,38.1c0,3.6-2.9,6.5-6.5,6.5c-3.6,0-6.5-2.9-6.5-6.5s2.9-6.5,6.5-6.5l0,0
+		C102.6,31.6,105.5,34.5,105.5,38.1z"/>
+</g>
+</svg>
